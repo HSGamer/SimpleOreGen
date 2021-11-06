@@ -1,0 +1,5 @@
+name: SimpleOreGen
+version: '${project.version}'
+main: me.hsgamer.simpleoregen.SimpleOreGen
+api-version: 1.17
+authors: [ HSGamer ]
